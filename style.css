@@ -1,0 +1,10 @@
+.carta{
+    background-color: red;
+    width: 800px;
+    height: 800px;
+}
+.cartinha{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
